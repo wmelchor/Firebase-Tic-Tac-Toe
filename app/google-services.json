@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692608274570",
+    "project_id": "project3-wmelchor",
+    "storage_bucket": "project3-wmelchor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692608274570:android:8d02f6127ee0e1e91d9d73",
+        "android_client_info": {
+          "package_name": "edu.gmu.cs477.fall2022.project3_wmelchor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692608274570-e4sji7go5n87d9gjqsegsa7l9s8nhe8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1-r9QLVtogYzGF5hBxZ1EpFprHZ_sJsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692608274570-e4sji7go5n87d9gjqsegsa7l9s8nhe8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
